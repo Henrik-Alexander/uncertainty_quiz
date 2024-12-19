@@ -2,7 +2,7 @@
 This quiz is inspired by David Spiegelhalter (2023): The Art of Uncertainty, chapter 2. 
 
 # Requirements
-An installed version of [R](https://cran.r-project.org/) and (RStudio)[https://posit.co/download/rstudio-desktop/].
+An installed version of [R](https://cran.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/]).
 
 # Use
 1. Download: Just click on the green button "code" in the top right corner and download the repository.
