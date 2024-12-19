@@ -1,6 +1,14 @@
 # Uncertainty Quiz
 This quiz is inspired by David Spiegelhalter (2023): The Art of Uncertainty, chapter 2. 
 
+# Requirements
+An installed version of [R](https://cran.r-project.org/) and (RStudio)[https://posit.co/download/rstudio-desktop/].
+
+# Use
+1. Download: Just click on the green button "code" in the top right corner and download the repository.
+2. Open: After extracting the files, you can simply click open the session by clicking on uncertainty_quiz.Rproj.
+3. Start the quiz: Open the file *quiz.R* and then press source (or press Strg + Alt + R).
+
 # Rules
 Consider the questions listed below. In each case (either A or B) is the correct answer. The rules are simple.
   1. Decide which answer you feel is most likely to be correct.
